@@ -2,10 +2,12 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## STUDY
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [k8s](study/k8s/README.md)
+  * [Page 1](study/k8s/page-1.md)
+* [flink](study/flink/README.md)
+  * [Page 2](study/flink/page-2.md)
 
 ## The Formal Stuff
 
