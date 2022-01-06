@@ -5,8 +5,8 @@
 
 ## K8s
 
-* [Page 1](k8s/page-1.md)
+* [Kubernetes란?](k8s/kubernetes.md)
 
 ## flink
 
-* [Flink란?](flink/flink.md)
+* [Flink란?](flink/page-2.md)
