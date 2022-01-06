@@ -1,3 +1,0 @@
-# Kubernetes란?
-
-ㅏㅕkdfsdfsdf\\

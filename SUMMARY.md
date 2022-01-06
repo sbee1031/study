@@ -5,7 +5,7 @@
 
 ## K8s
 
-* [Kubernetes란?](k8s/kubernetes.md)
+* [K8s(Kubernetes)란?](k8s/k8s-kubernetes.md)
 
 ## flink
 
