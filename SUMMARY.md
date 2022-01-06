@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [README](readme.md)
 
 ## K8s
 
